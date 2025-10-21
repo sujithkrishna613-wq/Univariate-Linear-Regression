@@ -19,14 +19,6 @@ developed by: SUJITH KRISHNA C
 ref no: 25018114
 
 ```
-
-
-
-
-
-
-
-
 <img width="399" height="532" alt="image" src="https://github.com/user-attachments/assets/affcdfa6-5a37-4b7a-9b85-d44d7f26bbec" />
 
 ## Output
